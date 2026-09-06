@@ -23,5 +23,5 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: luci-app-wizard-mipsel_24kc
-          path: dist/*.apk
+          path: dist/*
           if-no-files-found: error
