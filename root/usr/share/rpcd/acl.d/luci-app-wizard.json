@@ -1,0 +1,19 @@
+{
+  "luci-app-wizard": {
+    "description": "Доступ к мастеру быстрой настройки",
+    "read": {
+      "uci": [ "system", "network", "wireless", "lucistart" ],
+      "ubus": {
+        "system": [ "board", "info" ],
+        "network.interface.wan": [ "status" ]
+      }
+    },
+    "write": {
+      "uci": [ "system", "network", "wireless", "lucistart" ],
+      "ubus": {
+        "uci": [ "apply", "confirm", "rollback" ],
+        "luci": [ "setPassword" ]
+      }
+    }
+  }
+}

@@ -1,0 +1,7 @@
+*.ipk
+*.apk
+*.tar.gz
+*.pem
+*.key
+*ed25519*
+node_modules/

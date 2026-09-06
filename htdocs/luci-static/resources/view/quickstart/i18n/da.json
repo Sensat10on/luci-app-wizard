@@ -1,0 +1,16 @@
+{
+  "Сеть": "Netværk",
+  "Продолжить": "Fortsæt",
+  "Тип подключения": "Protokol",
+  "Автоматически (DHCP)": "DHCP klient",
+  "Статический IP": "Statisk adresse",
+  "IP‑адрес": "IPv4-adresse",
+  "Маска сети": "IPv4-netmaske",
+  "Шлюз": "IPv4-gateway",
+  "Имя сети (SSID)": "SSID",
+  "Имя сети 2,4 ГГц": "SSID (2.4 GHz)",
+  "Пароль сети 2,4 ГГц": "Adgangskode (2.4 GHz)",
+  "Имя сети 5 ГГц": "SSID (5 GHz)",
+  "Пароль сети 5 ГГц": "Adgangskode (5 GHz)",
+  "Применить настройки": "Gem og anvend"
+}

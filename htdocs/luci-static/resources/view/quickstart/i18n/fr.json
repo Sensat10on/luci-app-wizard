@@ -1,0 +1,16 @@
+{
+  "Сеть": "Réseau",
+  "Продолжить": "Continuer",
+  "Тип подключения": "Protocole",
+  "Автоматически (DHCP)": "client DHCP",
+  "Статический IP": "Adresse statique",
+  "IP‑адрес": "Adresse IPv4",
+  "Маска сети": "Masque-réseau IPv4",
+  "Шлюз": "Passerelle IPv4",
+  "Имя сети (SSID)": "SSID",
+  "Имя сети 2,4 ГГц": "SSID (2.4 GHz)",
+  "Пароль сети 2,4 ГГц": "Mot de passe (2.4 GHz)",
+  "Имя сети 5 ГГц": "SSID (5 GHz)",
+  "Пароль сети 5 ГГц": "Mot de passe (5 GHz)",
+  "Применить настройки": "Enregistrer et Appliquer"
+}

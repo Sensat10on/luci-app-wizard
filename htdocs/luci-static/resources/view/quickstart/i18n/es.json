@@ -1,0 +1,18 @@
+{
+  "Показать": "Mostrar",
+  "Скрыть": "Ocultar",
+  "Сеть": "Red",
+  "Продолжить": "Continuar",
+  "Тип подключения": "Protocolo",
+  "Автоматически (DHCP)": "Cliente DHCP",
+  "Статический IP": "Dirección estática",
+  "IP‑адрес": "Dirección IPv4",
+  "Маска сети": "Máscara de red IPv4",
+  "Шлюз": "Puerta de enlace IPv4",
+  "Имя сети (SSID)": "SSID",
+  "Имя сети 2,4 ГГц": "SSID (2.4 GHz)",
+  "Пароль сети 2,4 ГГц": "Contraseña (2.4 GHz)",
+  "Имя сети 5 ГГц": "SSID (5 GHz)",
+  "Пароль сети 5 ГГц": "Contraseña (5 GHz)",
+  "Применить настройки": "Guardar y aplicar"
+}

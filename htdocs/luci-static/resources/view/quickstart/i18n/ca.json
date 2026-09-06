@@ -1,0 +1,16 @@
+{
+  "Сеть": "Xarxa",
+  "Продолжить": "Continua",
+  "Тип подключения": "Protocol",
+  "Автоматически (DHCP)": "Client DHCP",
+  "Статический IP": "Adreça estàtica",
+  "IP‑адрес": "Adreça IPv4",
+  "Маска сети": "Màscara de xarxa IPv4",
+  "Шлюз": "Passarel·la IPv4",
+  "Имя сети (SSID)": "SSID",
+  "Имя сети 2,4 ГГц": "SSID (2.4 GHz)",
+  "Пароль сети 2,4 ГГц": "Contrasenya (2.4 GHz)",
+  "Имя сети 5 ГГц": "SSID (5 GHz)",
+  "Пароль сети 5 ГГц": "Contrasenya (5 GHz)",
+  "Применить настройки": "Desa i aplica"
+}

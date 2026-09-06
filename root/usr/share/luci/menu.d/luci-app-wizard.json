@@ -1,0 +1,9 @@
+{
+  "admin/lucistart": {
+    "title": "Быстрый старт",
+    "order": 1,
+    "firstchild_ineligible": true,
+    "action": { "type": "view", "path": "quickstart/wizard" },
+    "depends": { "acl": [ "luci-app-wizard" ] }
+  }
+}

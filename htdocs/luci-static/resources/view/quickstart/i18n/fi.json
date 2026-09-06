@@ -1,0 +1,16 @@
+{
+  "Сеть": "Verkko",
+  "Продолжить": "Jatka",
+  "Тип подключения": "Protokolla",
+  "Автоматически (DHCP)": "DHCP-asiakas",
+  "Статический IP": "Staattinen osoite",
+  "IP‑адрес": "IPv4-osoite",
+  "Маска сети": "IPv4-verkkopeite",
+  "Шлюз": "IPv4-yhdyskäytävä",
+  "Имя сети (SSID)": "SSID",
+  "Имя сети 2,4 ГГц": "SSID (2.4 GHz)",
+  "Пароль сети 2,4 ГГц": "Salasana (2.4 GHz)",
+  "Имя сети 5 ГГц": "SSID (5 GHz)",
+  "Пароль сети 5 ГГц": "Salasana (5 GHz)",
+  "Применить настройки": "Tallenna ja käytä"
+}

@@ -1,0 +1,18 @@
+{
+  "Показать": "Anzeigen",
+  "Скрыть": "Ausblenden",
+  "Сеть": "Netzwerk",
+  "Продолжить": "Fortfahren",
+  "Тип подключения": "Protokoll",
+  "Автоматически (DHCP)": "DHCP Client",
+  "Статический IP": "Statische Adresse",
+  "IP‑адрес": "IPv4 Adresse",
+  "Маска сети": "IPv4 Netzmaske",
+  "Шлюз": "IPv4 Gateway",
+  "Имя сети (SSID)": "SSID",
+  "Имя сети 2,4 ГГц": "SSID (2.4 GHz)",
+  "Пароль сети 2,4 ГГц": "Passwort (2.4 GHz)",
+  "Имя сети 5 ГГц": "SSID (5 GHz)",
+  "Пароль сети 5 ГГц": "Passwort (5 GHz)",
+  "Применить настройки": "Speichern & Anwenden"
+}

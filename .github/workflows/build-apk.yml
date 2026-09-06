@@ -1,0 +1,27 @@
+name: Build OpenWrt APK
+
+on:
+  workflow_dispatch:
+  push:
+    tags: ["v*"]
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install decompressor
+        run: sudo apt-get update && sudo apt-get install -y zstd
+      - name: Build APK for ramips/mt7621
+        run: |
+          chmod +x scripts/build-apk.sh
+          ./scripts/build-apk.sh
+      - name: Publish APK artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: luci-app-wizard-mipsel_24kc
+          path: dist/*.apk
+          if-no-files-found: error

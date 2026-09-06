@@ -1,0 +1,18 @@
+{
+  "Показать": "Taispeáin",
+  "Скрыть": "Folaigh",
+  "Сеть": "Líonra",
+  "Продолжить": "Lean ar aghaidh",
+  "Тип подключения": "Prótacal",
+  "Автоматически (DHCP)": "Cliant DHCP",
+  "Статический IP": "Seoladh statach",
+  "IP‑адрес": "Seoladh IPv4",
+  "Маска сети": "Masc líonra IPv4",
+  "Шлюз": "Geata IPv4",
+  "Имя сети (SSID)": "SSID",
+  "Имя сети 2,4 ГГц": "SSID (2.4 GHz)",
+  "Пароль сети 2,4 ГГц": "Pasfhocal (2.4 GHz)",
+  "Имя сети 5 ГГц": "SSID (5 GHz)",
+  "Пароль сети 5 ГГц": "Pasfhocal (5 GHz)",
+  "Применить настройки": "Sábháil & Cuir i bhFeidhm"
+}

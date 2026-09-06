@@ -1,0 +1,174 @@
+[
+  {
+    "code": "en",
+    "name": "English"
+  },
+  {
+    "code": "ar",
+    "name": "العربية (Arabic)"
+  },
+  {
+    "code": "bg",
+    "name": "български (Bulgarian)"
+  },
+  {
+    "code": "bn_BD",
+    "name": "বাংলা (Bengali)"
+  },
+  {
+    "code": "ca",
+    "name": "Català (Catalan)"
+  },
+  {
+    "code": "cs",
+    "name": "Čeština (Czech)"
+  },
+  {
+    "code": "da",
+    "name": "Dansk (Danish)"
+  },
+  {
+    "code": "de",
+    "name": "Deutsch (German)"
+  },
+  {
+    "code": "el",
+    "name": "Ελληνικά (Greek)"
+  },
+  {
+    "code": "es",
+    "name": "Español (Spanish)"
+  },
+  {
+    "code": "fa",
+    "name": "Farsi (Persian)"
+  },
+  {
+    "code": "fi",
+    "name": "Suomi (Finnish)"
+  },
+  {
+    "code": "fil",
+    "name": "Filipino (Philippinic)"
+  },
+  {
+    "code": "fr",
+    "name": "Français (French)"
+  },
+  {
+    "code": "ga",
+    "name": "Gaeilge (Irish)"
+  },
+  {
+    "code": "he",
+    "name": "עִבְרִית (Hebrew)"
+  },
+  {
+    "code": "hi",
+    "name": "हिंदी (Hindi)"
+  },
+  {
+    "code": "hu",
+    "name": "Magyar (Hungarian)"
+  },
+  {
+    "code": "it",
+    "name": "Italiano (Italian)"
+  },
+  {
+    "code": "ja",
+    "name": "日本語 (Japanese)"
+  },
+  {
+    "code": "ka",
+    "name": "ქართული ენა (Georgian)"
+  },
+  {
+    "code": "ko",
+    "name": "한국어 (Korean)"
+  },
+  {
+    "code": "lo",
+    "name": "ພາສາລາວ (Lao)"
+  },
+  {
+    "code": "lt",
+    "name": "Lietuvių (Lithuanian)"
+  },
+  {
+    "code": "lv",
+    "name": "Latviešu (Latvian)"
+  },
+  {
+    "code": "mr",
+    "name": "Marāṭhī (Marathi)"
+  },
+  {
+    "code": "ms",
+    "name": "Bahasa Melayu (Malay)"
+  },
+  {
+    "code": "nb_NO",
+    "name": "Norsk (Norwegian)"
+  },
+  {
+    "code": "nl",
+    "name": "Nederlands (Dutch)"
+  },
+  {
+    "code": "pl",
+    "name": "Polski (Polish)"
+  },
+  {
+    "code": "pt",
+    "name": "Português (Portuguese)"
+  },
+  {
+    "code": "pt_BR",
+    "name": "Português do Brasil (Brazilian Portuguese)"
+  },
+  {
+    "code": "ro",
+    "name": "Română (Romanian)"
+  },
+  {
+    "code": "ru",
+    "name": "Русский (Russian)"
+  },
+  {
+    "code": "sk",
+    "name": "Slovenčina (Slovak)"
+  },
+  {
+    "code": "sv",
+    "name": "Svenska (Swedish)"
+  },
+  {
+    "code": "ta",
+    "name": "Tamil (Tamil)"
+  },
+  {
+    "code": "tr",
+    "name": "Türkçe (Turkish)"
+  },
+  {
+    "code": "uk",
+    "name": "Українська (Ukrainian)"
+  },
+  {
+    "code": "vi",
+    "name": "Tiếng Việt (Vietnamese)"
+  },
+  {
+    "code": "yua",
+    "name": "Yucateco (Yucatec Maya)"
+  },
+  {
+    "code": "zh_Hans",
+    "name": "简体中文 (Simplified Chinese)"
+  },
+  {
+    "code": "zh_Hant",
+    "name": "正體中文 (Traditional Chinese)"
+  }
+]
