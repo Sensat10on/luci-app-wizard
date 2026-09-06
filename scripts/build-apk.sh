@@ -35,5 +35,6 @@ cp "$ROOT_DIR/root/usr/share/rpcd/acl.d/luci-app-wizard.json" "$PKG_ROOT/usr/sha
   --output "$OUT_DIR/luci-app-wizard_${VERSION}_${ARCH}.apk"
 
 "$SDK_DIR/staging_dir/host/bin/apk" mkndx \
+  --allow-untrusted \
   --output "$OUT_DIR/APKINDEX.tar.gz" \
   "$OUT_DIR/luci-app-wizard_${VERSION}_${ARCH}.apk"
